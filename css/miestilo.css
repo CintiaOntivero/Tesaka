@@ -31,14 +31,15 @@ h1{
 
 }
 .taboymas {
-        
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
         background-color: rgba(189, 12, 145, 0.25) ;
         width: 300px;
         height: 70px;
         text-align: center;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        
          
 }
  div {
